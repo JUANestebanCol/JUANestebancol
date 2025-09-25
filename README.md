@@ -6,9 +6,6 @@ I am Juan Esteban A. From colombia  is an Open Source and V Contributor, DevOps 
 - 😄 Pronouns: He/him
 
 
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true)
-
-
 ### Programming Languages 🌐
 
 - Know/Using
